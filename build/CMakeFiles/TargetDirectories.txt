@@ -1,0 +1,3 @@
+/Users/us279/Desktop/Coding/Computer Vision Project/hand-gesture-controller/build/CMakeFiles/hand_gesture.dir
+/Users/us279/Desktop/Coding/Computer Vision Project/hand-gesture-controller/build/CMakeFiles/edit_cache.dir
+/Users/us279/Desktop/Coding/Computer Vision Project/hand-gesture-controller/build/CMakeFiles/rebuild_cache.dir
